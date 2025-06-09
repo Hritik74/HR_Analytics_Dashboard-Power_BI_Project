@@ -36,7 +36,7 @@ The data model consists of the following tables:
 - `DateTable[Date]` → `EmployeesData[Hire Date]` and `Exit Date`
 - `SalaryBandTable[Salary Band]` → `EmployeesData[Salary Band]`
 - `TenureBucketTable[Tenure Bucket]` → `EmployeesData[Tenure Bucket]`
-
+![Image](https://github.com/user-attachments/assets/d05f2c6c-2d91-47b6-8dfc-b13d32900d5a)
 The relationships are set up as one-to-many, with lookup tables on the one-side and EmployeesData on the many-side.
 
 ---
@@ -75,10 +75,17 @@ These measures are used across cards, bar charts, KPIs, and trend visuals to ena
 - **Donut / Pie Charts**: Gender ratio, employment status breakdown.
 - **Stacked Column Charts**: Tenure bucket vs attrition or salary level.
 - **Matrix Tables**: Show employee counts by department and year with conditional formatting.
+  
+# Workforce Summary
+![Image](https://github.com/user-attachments/assets/39982a5f-9bbf-4de9-a714-424249728e6a)
+
+# Employee Attrition Overview
+![Image](https://github.com/user-attachments/assets/2d1134be-7594-4df3-ae9f-6d6430fe8bec)
 
 ### 🎛️ Slicers and Filters
 
-- **Year-Month**, **Gender**, **Department**, **Country**, **Employment Status**, **Salary Band**, and **Tenure Bucket** slicers were added to make the dashboard interactive and customizable for user exploration.
+**Data Range**, **Department**, **Country**, **Job Title** and **Business Unit** slicers were added to make the dashboard interactive and customizable for user exploration.
+![Image](https://github.com/user-attachments/assets/3738fa12-2871-48a8-aa8e-8474a90754a6)
 
 ---
 
