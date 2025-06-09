@@ -1,5 +1,5 @@
 # HR Analytics Dashboard – Power BI Project
-![Image](https://github.com/user-attachments/assets/a797777f-e334-4a5f-a07c-1edc0b351d15)
+![Image](https://github.com/user-attachments/assets/95224441-2808-46b9-ae4e-80dbd7d817f4)
 
 ## 📌 Problem Statement
 
