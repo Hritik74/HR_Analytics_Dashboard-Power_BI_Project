@@ -36,6 +36,7 @@ The data model consists of the following tables:
 - `DateTable[Date]` → `EmployeesData[Hire Date]` and `Exit Date`
 - `SalaryBandTable[Salary Band]` → `EmployeesData[Salary Band]`
 - `TenureBucketTable[Tenure Bucket]` → `EmployeesData[Tenure Bucket]`
+
 ![Image](https://github.com/user-attachments/assets/d05f2c6c-2d91-47b6-8dfc-b13d32900d5a)
 The relationships are set up as one-to-many, with lookup tables on the one-side and EmployeesData on the many-side.
 
