@@ -135,13 +135,14 @@ CALCULATE(
 
 ## 📈 Key Insights Discovered
 ### The dashboard revealed several important **HR insights**:
-- **High Attrition in Specific Years**: A spike in attrition was observed in certain years, helping HR investigate causes like policy changes or organizational shifts.
-- **Average Tenure**: The average employee tenure was found to be lower than expected in some departments.
-- **Salary vs. Tenure Relationship**: A clear trend showed that employees with longer tenure generally belonged to higher salary bands.
-- **Gender Distribution**: Some departments had skewed gender ratios, pointing to potential diversity gaps.
-- **Exit Analysis**: The average age and salary at exit indicated that mid-level employees were leaving more frequently than juniors or seniors.
-- **Year-over-Year Hiring Trends**: The dashboard exposed fluctuating hiring rates, suggesting seasonal or business-cycle effects.
-
+- Notable increase in exits during 2019 (8 exits) and 2017 (9 exits), indicating possible organizational or external influences.
+- Average tenure is 12.48 years, with most employees in the 6–10 years (28.9%) and 11–20 years (33.4%) ranges.
+- Employees with longer tenure (>10 years) mostly fall in higher salary bands (100K–200K), showing a clear growth trend.
+- Male attrition rate stands at 55.9%, notably higher than the 44.1% female attrition rate,  suggests that male employees are exiting the organization more frequently.
+- Average exit age is 43 years with exit salary averaging $104,437; majority exits are from the 50K–100K band (45 exits).
+- Engineering (17), IT (16), and Marketing (15) have the highest exits, signaling potential hotspots.
+- Exits peak in May (17), suggesting seasonal or policy-driven patterns.
+  
 --- 
 
 🛠 **Tools & Technologies**
